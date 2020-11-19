@@ -71,7 +71,9 @@ def menuformaspagemento():
           '( 4 ) Cheque: \n'
           '( 5 ) Tranferecia Bancaria: \n'
           '( 7 ) Outro tipo de desconto\n'
-          '( 8 ) Cancelar compra')
+          '( 8 ) Cancelar compra\n'
+          '( 9 ) tatrararara')
+          
 
 
 def menuprincipla():
