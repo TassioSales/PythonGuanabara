@@ -5,4 +5,4 @@ cateto_ad = float(input("Qual comprimento cateto adijacente ? "))
 
 hi = math.hypot(cateto_op, cateto_ad)
 
-print(f'A hipotenuza vai medi {hi:.2f}')
+print(f'A hipotenuza vai medir {hi:.2f}')
