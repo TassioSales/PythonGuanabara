@@ -13,3 +13,4 @@ for c in range(1, num):
             menor = peso
 print(f"O maior peso encontrado {maior}")
 print(f'O menor peso encontrado {menor}')
+
