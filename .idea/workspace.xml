@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="277d2720-95e8-412f-b98b-64d7b9e576ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonGuanabara.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonGuanabara.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX 105_Analisando e gerando Dicionários.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX 106_Interactive helping system in Python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -30,6 +30,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0/LocalCache/local-packages/Python39/site-packages/googletrans/gtoken.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1pmLEeqIv4jj3xVkzOe8WkTTqVQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Google Drive/Projetos Tassio Sales/dados_beneficio_ao_cidadão/AUXILIO EMERGENCIAL/Arquivos_zip" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,29 +52,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.EX 081_Extraindo_dados_de_uma_Lista">
-    <configuration name="EX 075 _ Análise_de_dados_em_uma_Tupla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonGuanabara" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\tassi\OneDrive\Documentos\GitHub\PythonGuanabara\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX 075 _ Análise_de_dados_em_uma_Tupla.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.EX 106_Interactive helping system in Python">
     <configuration name="EX 077_ Contando_vogais_em_Tupla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonGuanabara" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX_076_Lista_de_Preços_com_Tupla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EX 105_Analisando e gerando Dicionários" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonGuanabara" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +135,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX_076_Lista_de_Preços_com_Tupla.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX 105_Analisando e gerando Dicionários.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EX 106_Interactive helping system in Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonGuanabara" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\tassi\OneDrive\Documentos\GitHub\PythonGuanabara\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX 106_Interactive helping system in Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.EX 106_Interactive helping system in Python" />
+        <item itemvalue="Python.EX 105_Analisando e gerando Dicionários" />
         <item itemvalue="Python.EX 081_Extraindo_dados_de_uma_Lista" />
         <item itemvalue="Python.EX 080_Lista_ordenada_sem_repetições" />
         <item itemvalue="Python.EX 077_ Contando_vogais_em_Tupla" />
-        <item itemvalue="Python.EX_076_Lista_de_Preços_com_Tupla" />
-        <item itemvalue="Python.EX 075 _ Análise_de_dados_em_uma_Tupla" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +212,9 @@
       <workItem from="1617838079083" duration="87000" />
       <workItem from="1617943628976" duration="351000" />
       <workItem from="1617990411979" duration="44000" />
+      <workItem from="1621911221024" duration="13000" />
+      <workItem from="1621911235528" duration="1497000" />
+      <workItem from="1621912959646" duration="3547000" />
     </task>
     <servers />
   </component>
@@ -225,8 +234,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/EX_003_py$EX_081_Extraindo_dados_de_uma_Lista.coverage" NAME="EX 081_Extraindo_dados_de_uma_Lista Coverage Results" MODIFIED="1617943957097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicio_guanabara_2.0" />
+    <SUITE FILE_PATH="coverage/EX_003_py$EX_081_Extraindo_dados_de_uma_Lista.coverage" NAME="EX 081_Extraindo_dados_de_uma_Lista Coverage Results" MODIFIED="1621911898540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicio_guanabara_2.0" />
+    <SUITE FILE_PATH="coverage/EX_003_py$EX_106_Interactive_helping_system_in_Python.coverage" NAME="EX 106_Interactive helping system in Python Coverage Results" MODIFIED="1621916438478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonGuanabara$EX_076_Lista_de_Preços_com_Tupla.coverage" NAME="EX_076_Lista_de_Preços_com_Tupla Coverage Results" MODIFIED="1615850527870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EX_003_py$EX_105_Analisando_e_gerando_Dicionários.coverage" NAME="EX 105_Analisando e gerando Dicionários Coverage Results" MODIFIED="1621913875863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonGuanabara$EX_080_Lista_ordenada_sem_repetições.coverage" NAME="EX 080_Lista_ordenada_sem_repetições Coverage Results" MODIFIED="1616285372729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonGuanabara$EX_081_Extraindo_dados_de_uma_Lista.coverage" NAME="EX 081_Extraindo_dados_de_uma_Lista Coverage Results" MODIFIED="1616286718916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonGuanabara$EX_075___Análise_de_dados_em_uma_Tupla.coverage" NAME="EX 075 _ Análise_de_dados_em_uma_Tupla Coverage Results" MODIFIED="1615848297977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
